@@ -1,6 +1,6 @@
-# trust-froming-operations
+# trust-forming-operations
 a detailed description of the keys elements of trust forming, operating and regulation in all trust solutions
-# trust-froming-operations
+# trust-forming-operations
 a detailed description of the keys elements of trust forming, operating and regulation in all trust solutions
 
 ## Contents
