@@ -1,8 +1,7 @@
 # trust-forming-operations
 a detailed description of the keys elements of trust forming, operating and regulation in all trust solutions
 # trust-forming-operations
-a detailed description of the keys elements of trust forming, operating and regulation in all trust solutions
-Sure! Here is a curated list of awesome test automation frameworks, tools, libraries, and software that can be used for different trust account formations and operations, including Cestui Que Vie trust options:
+a detailed description of the keys elements of trust forming, operating and regulation in all trust solutions is a curated list of awesome test automation frameworks, tools, libraries, and software that can be used for different trust account formations and operations, including Cestui Que Vie trust options:
 
 ### Test Automation Frameworks
 1. **Selenium**
@@ -67,9 +66,5 @@ Sure! Here is a curated list of awesome test automation frameworks, tools, libra
    - **Features**: Informative articles, legal definitions, and expert advice.
    - **Resource**: [MyLawQuestions](https://www.mylawquestions.com/what-is-a-cestui-que-trust.htm)
 
-By utilizing these frameworks, libraries, and software tools, you can effectively automate the processes involved in trust account formations and operations, ensuring accuracy, compliance, and efficiency. If you have any more questions or need further assistance, feel free to ask!
-## Contents
-- [Trust Formation](trust-formation.md) 
-- [Trust Operation](trust-operation.md)
-- [Trust Regulation](trust-regulation.md)
-- [Trust Solutions](trust-solutions.md)
+By utilizing these frameworks, libraries, and software tools, you can effectively automate the processes involved in trust account formations and operations, ensuring accuracy, compliance, and efficiency.!
+
